@@ -23,7 +23,7 @@ if (i % 3 === 0) {
 const containerHtml = document.querySelector('.container-boxes');
 
 // Ciclo for DOM
-for (let i = 1; i <=100; i++) {
+for (let i = 1; i <=100; i++)
 
     // Stampa Fizz nel DOM se multiplo di 3
     if (i % 3 === 0) {  
